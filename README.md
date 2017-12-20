@@ -1,2 +1,3 @@
 # Gene-s-hubs-in-Retinal-Diseases
 A retinal disease Network.
+This work results in the first retinal database and relational network that includes diseases, phenotypes, genes, and proteins was successfully created. The database compiled contains 324 diseases, 803 genes, 463 phenotypes, and 2461 proteins. Also, four relational trees including: (1) a disease and gene network connected by common phenotypes, (2) a disease and phenotype network connected by common genes, (3) a disease and gene network with shared disease or gene as the cause of an edge, and (4) a protein and disease network. The four networks can be seen in figure 2, and can be retrieved in Microsoft access format (.accdb), cytoscape (.cys) and interactive cytoscape.js html (.zip).
